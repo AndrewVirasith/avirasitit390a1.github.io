@@ -1,0 +1,46 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+body{
+    background-color: beige;
+}
+.navbar{
+    text-align: right;
+    padding: 10px 20px;
+    align-items: center;
+    justify-content: space-between;
+    flex-grow: 1;
+    background-color: aqua;
+    border-style: solid;
+    border: 1px solid rgb(0, 0, 0);
+}
+.text {
+    color: rgb(0, 0, 0);
+    text-align: left;
+}
+
+p {
+    font-size: medium;
+}
+
+.cycle{
+    padding-left: 1%;
+}
+
+img{
+    max-width: 70%;
+    max-height: 35%;
+}
+
+
+
+a:visited{
+    color:rgb(0, 0, 0);
+  }
+
+.navbar img {
+    width: 60px;
+    height: 60px;
+    margin-right: 20px;
+    float: left;
+}
